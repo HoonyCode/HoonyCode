@@ -8,7 +8,7 @@
   
 ### BaekJoon
   
-<img align='top' src="http://mazassumnida.wtf/api/generate_badge?boj=kiss9924">
+<img align='top' src="http://mazassumnida.wtf/api/generate_badge?boj=kiss5489">
   </td><td valign="top" width="100%">
   <div align="left">
     
