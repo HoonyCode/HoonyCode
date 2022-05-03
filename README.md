@@ -8,13 +8,16 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiss5489)](https://solved.ac/kiss5489)
 
 ### Languages
- - C, C++, JAVA, JavaScript, Python
+ - C, C++, JAVA, JavaScript
 
 ### Frameworks
  - Android, Spring, Spring Boot, Vue
 
-### Design
- - Adobe XD
+### skill
+ - Mybatis, JPA, QueryDsl, Spring Security, JWT
+
+### DataBase
+ - MySQL, MariaDB  
 
 ### Interesting
  - Algorithm, Android, DataBase, Server
